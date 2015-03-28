@@ -65,3 +65,4 @@ release.properties
 ### WebCollector
 /crawl/
 
+/build/
